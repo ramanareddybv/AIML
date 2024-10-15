@@ -36,6 +36,8 @@ b = "Hi Ram"
 print(a, b)
 print(10, "Hi Ram")
 
+print("Hi Ram, Your are in " + str(42) + " age")
+
 name = "Ram"
 code = 'D1006'
 doj = '07-01-2020'
