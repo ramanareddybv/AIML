@@ -78,14 +78,21 @@ If the determinant of a square matrix is zero then it is Singular matrix, If the
 Properties of Matrix Addition
 =============================
 A + B = B + A                  ---> Commutative Law
+
 A + (B + C) = (A + B) + C      ---> Associate Law
+
 k(A + B) = KA + KB             ---> Distributive Law
+
 A + 0 = 0 + A = A              ---> Additive Identity Law
+
 A + B = 0 = B + A              ---> B is additive inverse
+
 A + X = 0 = X + A this equation has an unique solution when x = -A
 
 Properties of Matrix Multiplication
 ===================================
 A(BC) = (AB)C Associate Law
+
 A(B + C) = AB + AC Distributive Law
+
 AB = BA sometimes AB != BA so not necessarily commutative
