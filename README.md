@@ -81,7 +81,17 @@ The adjoint of a square matrix A, denoted as adj(A), is the transpose of the mat
 
 Determinant
 ===========
-The determinant of a matrix calculated by adding the product of the elements of a matrix with their cofactors. The determinant of a matrix can only be calculated for a square matrix. It is represented by |A|
+The determinant of a matrix calculated by adding the product of the elements of a matrix with their cofactors. The determinant of a matrix can only be calculated for a square matrix.
+            It is represented by |A|
+
+
+For a 2x2 matrix A = a b
+                     c d  the determinant is |A| = (a*d) - (b*c)
+
+
+For a 3x3 matrix A = a b c
+                     d e f
+                     g h i the determinant is |A| = a(e*i - f*h) - b(d*i - f*g) + c(d*h - e*g)
 
 Orthogonal Matrix
 =================
