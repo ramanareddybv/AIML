@@ -1,7 +1,9 @@
 # AIML
 
 https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
+
 https://textbooks.math.gatech.edu/ila/index.html
+
 https://scikit-learn.org/stable/
 
 Matrix
