@@ -25,3 +25,8 @@ Upper Traingular Matrix: For all the elements below the leading diagonal are zer
 Lower Traingular Matrix: For all the elements above the leading diagonal are zero
 
 Transpose Matrix: Transpose is not a matrix, it is an operation on a matrix. If we interchange rows and with the corresponding columns of a given matrix, A, the new matrix obtained is called Transpose of a matrix. It is denoted as AT or A'
+
+Symmetric Matrix: It should be a square matrix and the transpose of the matrix should be the original matrix. A' = A. The other words aij = aji, for all the values of i, j
+
+Skew Symmetric Matrix: It should be a square matrix and the transpose of the matrix should be the negative matrix of original matrix. A' = -A. aij = -aji. In Skew Symmetric Matrix all diagonal elements are zero
+
