@@ -36,7 +36,7 @@ Unit or Identity Matrix
 =======================
 A scalar Matrix where k=1
 
-NUll Matrix
+Null Matrix
 ===========
 A matrix with all zeros
 
