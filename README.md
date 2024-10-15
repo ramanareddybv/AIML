@@ -100,6 +100,7 @@ If we have a square matrix A and A.A' = A'.A = I (Identity Matrix), then this is
 Singular & Non Singular Matrix
 ==============================
 If the determinant of a square matrix is zero then it is Singular matrix, If the determinant of a square matrix is not equal to zero then it is non singular matrix. For a given square matrix A, |A| = 0 ----> Singular Matrix. For a given square matrix A, |A| != 0 ----> Non Singular Matrix
+Inverse of a singular matrix cannot be found
 
 
 ======================================= Algebra of Matrix =======================================
