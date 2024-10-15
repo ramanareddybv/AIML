@@ -79,6 +79,10 @@ Adjoint of a Matrix
 ===================
 The adjoint of a square matrix A, denoted as adj(A), is the transpose of the matrix of cofactors of A
 
+Determinant
+===========
+The determinant of a matrix calculated by adding the product of the elements of a matrix with their cofactors. The determinant of a matrix can only be calculated for a square matrix. It is represented by |A|
+
 Orthogonal Matrix
 =================
 If we have a square matrix A and A.A' = A'.A = I (Identity Matrix), then this is called Orthogonal Matrix
