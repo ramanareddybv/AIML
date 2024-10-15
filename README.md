@@ -64,6 +64,21 @@ Skew Symmetric Matrix
 =====================
 It should be a square matrix and the transpose of the matrix should be the negative matrix of original matrix. A' = -A. aij = -aji. In Skew Symmetric Matrix all diagonal elements are zero
 
+Inverse of a Matrix
+===================
+The inverse of a square matrix A, denoted as A-', is a matrix such that
+                A.A-' = A-'.A = I where 'I' is the Identity matrix
+
+                     
+                     a b
+For a 2x2 matrix A = c d then inverse A-' is given by:
+                
+                A-' = adj(A)/|A| or A-' = 1/det(A)
+                
+Adjoint of a Matrix
+===================
+The adjoint of a square matrix A, denoted as adj(A), is the transpose of the matrix of cofactors of A
+
 Orthogonal Matrix
 =================
 If we have a square matrix A and A.A' = A'.A = I (Identity Matrix), then this is called Orthogonal Matrix
