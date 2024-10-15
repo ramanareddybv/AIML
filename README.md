@@ -24,7 +24,7 @@ Square Matrix
 =============
 Number of rows equal to number of colums vise versa
 
-Diagnol Matrix
+Diagonal Matrix
 ==============
 A Square Matrix with all non diagonal elements should be '0'. Left to right diagonal called principal diagonal or leading diagonal, the other diagonal called non   principal or non leading diagonal
 
