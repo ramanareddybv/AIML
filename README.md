@@ -132,4 +132,4 @@ Transformation Matrix
 Vector: vector is row matix or column matrix. From a matrix we can define n number of vectors. A transformation matrix changes the position of a vector. If we multiply a vector with a scaler matrix then the position of the vector will change (zoom in), here the scaler matrix we call it as transformation matrix. Trandformation matrix can be any matrix which can change the position of the vector (object).
 
 If we use a matrix which can rotate the actual image (object/vector) then this matrix we call it as rotational transformation matrix like this we have scalling matrix and others...
-
+Any matrix we multiply with vector we call it as a transformation matrix
