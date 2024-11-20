@@ -133,3 +133,8 @@ Vector: vector is row matix or column matrix. From a matrix we can define n numb
 
 If we use a matrix which can rotate the actual image (object/vector) then this matrix we call it as rotational transformation matrix like this we have scalling matrix and others...
 Any matrix we multiply with vector we call it as a transformation matrix
+
+Linear Independence
+===================
+A set of vectors is linearly independent if no vectors can be represented as a liner conbination of the others.
+If we have vectors {v1, v2, v3, .....vk} and C1v1+C2v2+C3v3+....Ckvk = 0 and C1 = C2 = C3 = ...Ck = 0 and if this has only one solution then these vectors are called linearly independent. Here C1, C2, C3 ...Ck are coefficients
