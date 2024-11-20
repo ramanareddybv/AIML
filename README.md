@@ -146,3 +146,27 @@ Basis & Span
 The vectors which are used to span the entire dimensionality space are called as Basis vectors. Using Basis vectors we can cover the entire space in the dimensionality. These Basis vectors are useful when we want to reduce the features and dimensionality reduction. In Principal Component Analysis (PCA) Basis vectors play vital role. Basis vectors are linearly independent.
 
 [1], [1 0] [0 1], [1 0 0] [0 1 0] [0 0 1] these are some of the Basis vectors respectively for the 1d, 2d and 3d dimensionality, and there might be other Basis vectors.
+
+Vector Space
+============
+A vector space is, a set of vectors on which we perform addition and scaler multiplication and satisfy commutative and associativity laws. A vector space is denoted by V or R power n, here n is dimensions.
+
+v1 + v2 = v2 + v1, v1.v2 = v2.v1 ----> commutative
+v1 + (v2 + v3) = (v1 + v2) + v3, v1 .(v2.v3) = (v1.v2).v3 ----> associativity
+
+Span
+====
+From a given set of vectors {v1, v2, v3, v4,....vk}, all possible linear combinations called as span.
+span {v1, v2, v3, v4,....vk} = {alpha symbol1v1 + as2v2 + as3v3 + as4v4.....+askvk | (such that) as1, as2, as3 as4,....askvk belongs to real numbers}
+
+Rank of a Matrix
+================
+
+Eigen vectors & Eigen values
+============================
+
+Row Echelon Form & Reduced Row Echelon Form
+===========================================
+
+Krammers Rule
+=============
